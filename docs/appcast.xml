@@ -8,6 +8,13 @@
             <sparkle:version>9</sparkle:version>
             <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- 修复面板文字被裁切：「待命」等大字和规则按钮下方的状态不再缺笔。
+- 修复「直到…」打开时时间被整段选中显示成蓝色高亮。
+- 统一全 App 文案与术语：保持唤醒、允许休眠、待命、已停用、不限时（Indefinite）等；中英文同步优化。
+- 更新弹窗不再显示内部测试与验证说明。
+
+使用 ad-hoc 签名，未公证，最低 macOS 27。
+]]></description>
             <enclosure url="https://github.com/marsxxl/espresso-releases/releases/download/v0.1.8/Espresso-0.1.8.dmg" length="4513376" type="application/octet-stream" sparkle:edSignature="rv/+LLA3ymWWA9/nu2E9vfuDzkgJxqssFUfa6yNagP6BTr7Dj7Y8l1XIyukvYCIPJsmfHCPWf9VDwjvjEPYYDw=="/>
         </item>
         <item>
