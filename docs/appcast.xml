@@ -16,17 +16,13 @@
             <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Espresso 0.1.6（build 7）
-
-- 精简菜单栏面板：今天醒着统计入口移至顶栏，退出收进更多菜单，整体更紧凑。
+            <description sparkle:format="markdown"><![CDATA[- 精简菜单栏面板：今天醒着统计入口移至顶栏，退出收进更多菜单，整体更紧凑。
 - 调整面板字号和强调色，改善规则按钮三态；补充核心按钮、圆环、规则开关与加时提示的动效。
 - 菜单栏保持中增加热气动画，小时边界切换时保持时间占位宽度稳定。
 - 重整设置窗口：侧栏版本信息与滑动选中、对齐的工具连接状态、安装说明入口、快捷键键帽和快捷指令入口。
 - 简化统计与隐私页，增加统计和诊断入口，隐私说明支持展开详情。
 - 统计图表增加入场动画，周期选择统一为面板同款分段控件。
-- 测试不再自动扫描、删除历史偏好文件。
 
-验证：全量 632 项测试通过；已知的两项颜色对比度问题保留。使用 ad-hoc 签名，未公证，最低 macOS 27。刘海岛与无障碍专项优化暂缓，发布前完整真机 QA 尚未全部完成。
 ]]></description>
             <enclosure url="https://github.com/marsxxl/espresso-releases/releases/download/v0.1.6/Espresso-0.1.6.dmg" length="4533279" type="application/octet-stream" sparkle:edSignature="ZhQQ1RJOYqHr1SJLhgHsO2zjsjVssh0Czmi0lO20XXNH4u0zECdZR3mEHOGXF1N6Jj8BaYv7VYUmu09H8G16Bw=="/>
         </item>
