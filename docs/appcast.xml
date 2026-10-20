@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel><title>Espresso</title></channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Espresso</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Tue, 20 Oct 2026 09:02:20 +0800</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/marsxxl/espresso-releases/releases/download/v0.1.0/Espresso-0.1.0.dmg" length="4452496" type="application/octet-stream" sparkle:edSignature="JrmynH26kAK41TFC5HkRlKQL2U99xkX4EmR5/gi6spGrFD7aRu4M0encyMzaWtw0i1UNBkrcHYe4pkFzTBWYCg=="/>
+        </item>
+    </channel>
 </rss>
