@@ -3,6 +3,14 @@
     <channel>
         <title>Espresso</title>
         <item>
+            <title>0.1.4</title>
+            <pubDate>Tue, 20 Oct 2026 10:52:04 +0800</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/marsxxl/espresso-releases/releases/download/v0.1.4/Espresso-0.1.4.dmg" length="4476330" type="application/octet-stream" sparkle:edSignature="iUZs9xoBAH0swSm5HevIr3c6pfbq6OsKSdh2ew2P7fAw/MU/bMKU3+qno9DxyIkbwmwrys/d0hM7BPzOqNOLDA=="/>
+        </item>
+        <item>
             <title>0.1.3</title>
             <pubDate>Tue, 20 Oct 2026 10:39:15 +0800</pubDate>
             <sparkle:version>4</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/marsxxl/espresso-releases/releases/download/v0.1.2/Espresso-0.1.2.dmg" length="4468724" type="application/octet-stream" sparkle:edSignature="02uGOM66WPfx0dMmgxcMQLS7mTmMQ/lVzavvd/fi0Zn/zSogIAzmKrfQTD9Bt1b45waOi2ChRryVx24m3GsvCQ=="/>
-        </item>
-        <item>
-            <title>0.1.1</title>
-            <pubDate>Tue, 20 Oct 2026 09:05:35 +0800</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/marsxxl/espresso-releases/releases/download/v0.1.1/Espresso-0.1.1.dmg" length="4452449" type="application/octet-stream" sparkle:edSignature="otFTIL3A9Dvwd8q11EjpdjYSXwLvg8MFa2+24GGU8oEYvcUB6MLuIGEEWEfoliJG3HMn3GDasB62WZgfGVyVCA=="/>
         </item>
     </channel>
 </rss>
